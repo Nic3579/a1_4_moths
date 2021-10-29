@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="5.IKEZ;Z1BRwx|Q?|Vs?" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="controls_repeat_ext" id=":N_GbXU-Ja;sAurFCLIF"><value name="TIMES"><shadow type="math_number" id="(O9!=IQJBPed^`[=sFT^"><field name="NUM">10</field></shadow></value><statement name="DO"><block type="device_show_leds" id="afE0%DG^wUj%3k7Ls{yp"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        . # . # .
+        `</field><comment>first jumping jack position</comment><next><block type="device_show_leds" id="/hycwPgO]zAl8YbFwhHt"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><comment>second jumping jack position</comment></block></next></block></statement></block></statement></block></xml>
